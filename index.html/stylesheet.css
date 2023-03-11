@@ -1,0 +1,32 @@
+body {
+  background-color: lightblue;
+  margin-top: 100px;
+  margin-bottom: 60px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+
+h1 {
+  color: navy;
+  font-family: "verdana", serif;
+}
+
+h2  {
+  font-family: "verdana", serif;
+}
+
+
+
+ol {
+  color: navy;
+  font-family: "verdana", serif;
+}
+
+dl {
+  color: navy;
+  font-family: "verdana", serif;
+}
+
+
+
